@@ -6,4 +6,4 @@ Presented via Zoom November 10, 2022 in the Oklahoma Data Science Workshop.
 
 - [Bash functions for Schooner at OSCER](https://github.com/MooersLab/bashFunctions4oscer)
 - [Emacs configuration file for schooner supercomputer](https://github.com/MooersLab/emacs4oscer)
-- [Vim configuration file for schooner supercomputer] (https://github.com/MooersLab/vimrc4oscer) 
+- [Vim configuration file for schooner supercomputer](https://github.com/MooersLab/vimrc4oscer) 
